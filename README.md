@@ -15,7 +15,7 @@
 # Category Two: Algorithms and Data Structures
 *Sorting Algorithm Applet*
 - [Algorithms and Data Structures Narrative]()
-- [Artifact for Category Two](./Sorting-Algorithms.py)
+- [Artifact for Category Two]('./Category Two Artifact')
 
 # Category Three: Databases
 *Course Catalog Web App*
