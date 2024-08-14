@@ -1,8 +1,10 @@
-```
+```python 
 
 import PySimpleGUI as sg
 import matplotlib.pyplot as plt
 import numpy as np
+
+```
 
 # ------------------------------------------------GUI Interface------------------------------------------------
 layout = [[sg.Push(), sg.Text(text='Welcome to the Sorting Algorithms Applet!',
