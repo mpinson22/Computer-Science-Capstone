@@ -21,6 +21,7 @@
 *Course Catalog Web App*
 - [Databases Narrative]()
 - [Artifact for Category Three]()*
+  
 _*Note same as artifact for category one_
 
 
