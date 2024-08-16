@@ -1,4 +1,6 @@
-# Briefly describe the artifact. What is it? When was it created?
+# Category Three Narrative: Databases
+
+## Briefly describe the artifact. What is it? When was it created?
 
 This artifact is a course catalog application adapted from a project I completed in CS-300: Data Structures & Algorithms course last fall. It also blends elements of a full stack application I created during a course in CS-340: Client-Server Architecture. The original project from CS-300 was a simple C++ console app that only gave users the ability to search for a course or print courses in alphanumeric order. This new version has a fully functional web interface that allows users to search for courses, explore the catalog, and even register and deregister from courses.
 
