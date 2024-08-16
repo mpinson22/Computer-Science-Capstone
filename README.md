@@ -10,17 +10,20 @@
 # Category One: Software Design and Engineering
 *Course Catalog Web App*
 - [Software Design and Engineering Narrative]()
-- [Artifact for Category One](./Course-Catalog)
+- [Original Artifact for Category One]()
+- [Enhanced Artifact for Category One](./Course-Catalog)
 
 # Category Two: Algorithms and Data Structures
 *Sorting Algorithm Applet*
 - [Algorithms and Data Structures Narrative]()
-- [Artifact for Category Two](./Sorting-Algorithms)
+- [Original Artifact for Category Two]()
+- [Enhanced Artifact for Category Two](./Sorting-Algorithms)
 
 # Category Three: Databases
 *Course Catalog Web App*
 - [Databases Narrative]()
-- [Artifact for Category Three](./Course-Catalog)*
+- [Original Artifact for Category Three]()
+- [Enhanced Artifact for Category Three](./Course-Catalog)*
   
 _*Note same as artifact for category one_
 
