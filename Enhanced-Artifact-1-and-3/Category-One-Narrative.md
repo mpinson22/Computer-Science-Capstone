@@ -1,4 +1,4 @@
-# Category One: Software Design and Engineering Narrative  
+# Category One Narrative: Software Design and Engineering
 
 ## Briefly describe the artifact. What is it? When was it created?
 This artifact is a course catalog application. In its original form, it was a C++ console app that read input from a file and loaded courses 
