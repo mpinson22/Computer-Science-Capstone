@@ -9,7 +9,7 @@
 
 # Category One: Software Design and Engineering
 *Course Catalog Web App*
-- [Software Design and Engineering Narrative](./Original-Artifact-1-and-3/Category-One-Narrative.md)
+- [Software Design and Engineering Narrative](./Enhanced-Artifact-1-and-3/Category-One-Narrative.md)
 - [Original Artifact for Category One](./Original-Artifact-1-and-3)
 - [Enhanced Artifact for Category One](./Enhanced-Artifact-1-and-3)
 
