@@ -1,4 +1,4 @@
-# Category Three Narrative: Databases
+# Category Two Narrative: Databases
 
 ## Briefly describe the artifact. What is it? When was it created?
 This artifact is a new creation but is loosely based on a project that I did in CS-300, my data structures and algorithms course in the fall of 2023. That course had us create an app that loaded data from a spreadsheet and then allowed the user to either perform quick sort or selection sort on the data. This new artifact is an applet that allows users to choose between bubble sort, selection sort, quick sort, and merge sort, select a number of values, and then watch the data be sorted in a bar graph animation. 
