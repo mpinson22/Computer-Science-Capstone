@@ -23,6 +23,7 @@ The objectives I originally intended to meet with this enhancement were:
 -*Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.*
 
 The finished product clearly demonstrates the progress made in both of these categories. First, the original project was in C++; this new version is in Python. I realized that Python would provide a better platform to create an application of this nature. I was able to use several packages written for Python to achieve the exact functionality that I desired for the course catalog. Dash, Plotly, and PyMongo are a few examples. Furthermore, I was able to analyze the core components of the app in C++ and translate them into Python while adding new functionalities like the ability for students to log in, register for courses, and complete a degree audit. 
+
 In terms of security, the program requires users to sign in in order to register for courses. When creating accounts, user input is limited to a small number of characters to prevent buffer overflow. Additionally, input is validated and sanitized before being sent to interact with the Mongo database in order to minimize the likelihood of injection attacks. The original program had no input validation and no way of authenticating users, so drastic improvements in the software security have been made
 
 
