@@ -22,7 +22,7 @@
 # Category Three: Databases
 *Course Catalog Web App*
 - [Databases Narrative]()
-- [Original Artifact for Category Three](./Original-Artifact-1-and-3)
+- [Original Artifact for Category Three](./Original-Artifact-1-and-3)*
 - [Enhanced Artifact for Category Three](./Enhanced-Artifact-1-and-3)*
   
 _*Note same as artifact for category one_
