@@ -28,6 +28,8 @@ Though this is not a completely exhaustive list of the skills I’ve gained at S
 
 ## Code Review
 
+[![Code Review](https://img.youtube.com/vi/yuA8_bB6XBQ/0.jpg)](https://www.youtube.com/watch?v=yuA8_bB6XBQ)
+
 ## Artifacts
 
 # Category One: Software Design and Engineering
