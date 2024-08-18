@@ -37,18 +37,21 @@ Though this is not a completely exhaustive list of the skills I’ve gained at S
 - [Software Design and Engineering Narrative](./Enhanced-Artifact-One-and-Three/Category-One-Narrative)
 - [Original Artifact for Category One](./Original-Artifact-One-and-Three)
 - [Enhanced Artifact for Category One](./Enhanced-Artifact-One-and-Three)
+- [Artifact Video Demo](./Enhanced-Artifact-One-and-Three/Course-Catalog.md)
 
 # Category Two: Algorithms and Data Structures
 *Sorting Algorithm Applet*
 - [Algorithms and Data Structures Narrative](./Enhanced-Artifact-Two/Artifact-Two-Narrative)
 - [Original Artifact for Category Two](./Original-Artifact-Two)
 - [Enhanced Artifact for Category Two](./Enhanced-Artifact-Two)
+- [Artifact Video Demo](./Enhanced-Artifact-Two/Sorting-Algorithms-App.md)
 
 # Category Three: Databases
 *Course Catalog Web App*
 - [Databases Narrative](./Enhanced-Artifact-One-and-Three/Category-Three-Narrative)
 - [Original Artifact for Category Three](./Original-Artifact-One-and-Three)*
 - [Enhanced Artifact for Category Three](./Enhanced-Artifact-One-and-Three)*
+- [Artifact Video Demo](./Enhanced-Artifact-One-and-Three/Course-Catalog.md)*
   
 _*Note same as artifact for category one_
 
