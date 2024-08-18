@@ -14,6 +14,7 @@ I did meet the objective that I planned to meet:
 This artifact is a quite literal interpretation of this objective; its function is to demonstrate the efficiencies and mechanisms of these various sorting algorithms along with the help of visualization. Therefore, it completes this goal of the course. In addition to this objective I set out to meet in module one, I also demonstrated the following objectives:
 
 -*Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science*
+
 -*Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals*
 
 These two objectives are evidenced by the fact that this tool takes a very technical concept and creates an output that can be understood and used by almost anyone regardless of experience with computer science. One of my great strengths is bridging the gap between audiences with differing levels of knowledge, and I think this tool is a perfect liaison between diverse audiences from developers who will understand and appreciate the tool’s visualization and non-developers who will come to understand how computers sort data by seeing this animation.
