@@ -3,6 +3,8 @@
 ## Professional Self-Assessment
 *Self-evaluation of skills in the field of computer science and introduction to the artifacts present in the portfolio*
 
+[Link to PDF version](./Professional-Self-Assessment.pdf)
+
 During my time at SNHU, I have had the opportunity to be exposed to a variety of different sectors in the field of computer science. When I first started, I had very little coding experience and wasn’t sure what part of the industry I wanted to enter into. Now, after completing the coursework and this capstone project specifically, I’ve been able to take the time to find my strengths and weaknesses and my likes and dislikes.
 
 My first term, I took two courses, an intro to SQL and an intro to Python. These two courses were very formative and kickstarted my love of both data analytics and Python development. The SQL course allowed me to refine my skills working with large datasets and crafting complex queries to retrieve data in a way that wasn’t only accurate but efficient and usable. The Python course taught me how to create and implement a design for a piece of software, a skill that I would use countless other times in my time at SNHU.
